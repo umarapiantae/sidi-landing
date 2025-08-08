@@ -1,6 +1,4 @@
 import { ColorConfiguration } from "./ColorConfiguraion"
-import { LogoConfiguration } from "./LogoConfiguration"
-import { TypographyConfiguration } from "./TypographyConfiguration"
 
 export const Configuration = () => {
   return (
